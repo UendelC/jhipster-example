@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "br.com.uendel.blogapp"
+    },
+    "jhipsterVersion": "6.7.0",
+    "applicationType": "monolith",
+    "baseName": "app",
+    "packageName": "br.com.uendel.blogapp",
+    "packageFolder": "br/com/uendel/blogapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "infinispan",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "OTExMGJlM2MyNTM1ZWE0YzMzYTZkMGZkMjZkYzYxOGJlMzMzNGFiNDMwYjMwMTljMDVlNmVlODUwMjdkMTM0ZTM1MTIyYTI1MGZkMTRkMzg1MWMwZWE5YzY5ODE4NTk2MWE4ZmM3M2M3N2JhOWI0N2Y4MDY3YzE3ZjExMmFjNWY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1581447385588,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
